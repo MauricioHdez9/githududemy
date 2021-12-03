@@ -24,6 +24,6 @@ un **gran poder** requiere _una_ grean *responsabilidad*
  ![lobo y cuervo](https://pbs.twimg.com/media/D3UGsqOX4AASHel.jpg)<br/>                           
  [ir al  pagina de la imagen de lobo y cuervo](https://pbs.twimg.com/media/D3UGsqOX4AASHel.jpg)<br/>
  [Documentacion del Markdown (githud)](https://docs.github.com/es/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)<br/>
-[Markdown de GitHub Tutorial de Markdown](https://www.markdowntutorial.com/)
-[GitHub Markdown shee](https://docs.github.com/es)
-[Emojis de GitHub](https://www.webfx.com/tools/emoji-cheat-sheet/)
+[Markdown de GitHub Tutorial de Markdown](https://www.markdowntutorial.com/)<br/>
+[GitHub Markdown shee](https://docs.github.com/es)<br/>
+[Emojis de GitHub](https://www.webfx.com/tools/emoji-cheat-sheet/)<br/>
